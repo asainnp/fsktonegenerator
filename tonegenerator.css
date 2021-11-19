@@ -1,0 +1,8 @@
+ul { list-style-type:none; }
+.divfields { width:45%; }
+#divdtmf { float:left; }
+#divfsk { float:right; text-align:right; }
+.clear { clear:both; }
+#results { text-align:center; padding-top:1em; }
+.resultline { border-top:1px solid black; }
+
